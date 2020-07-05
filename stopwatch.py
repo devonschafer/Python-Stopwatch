@@ -1,10 +1,5 @@
 from guizero import *
 import time
-import datetime
-import os
-import glob
-from time import sleep, gmtime, strftime, localtime
-import math
 
 size = 20
 font = 'Helvetica'
