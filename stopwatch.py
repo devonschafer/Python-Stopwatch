@@ -91,7 +91,7 @@ pause_button.bg=dark_grey
 
 lap_times = ListBox(box2, items=[], width=150, height=380, grid=[1,1])
 lap_times.bg=white
-lap_times.text_font='Helvetica'
+lap_times.text_font=font
 lap_times.text_size=12
 lap_times.text_color=green
 
